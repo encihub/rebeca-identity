@@ -15,3 +15,7 @@ https://colorhunt.co/palette/ffead8e8988a9b177e2a1458
 - #E8988A rgb(232, 152, 138)
 - #9B177E rgb(155, 23, 126)
 - #2A1458 rgb(42, 20, 88)
+
+## References
+
+- [SVGSilh](https://svgsilh.com/es/)
